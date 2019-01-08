@@ -1,3 +1,3 @@
 # machine-learning-with-Python
-## TAVE code study
-### kNN, Decision Tree, Naive-bayes code examples
+## TAVE code study (2018)
+kNN, Decision Tree, Naive-bayes code examples
