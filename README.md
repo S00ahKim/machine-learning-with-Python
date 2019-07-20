@@ -1,15 +1,24 @@
 # machine-learning-with-Python
 > 파이썬을 사용하여 공부한 머신러닝 코드 저장소
 
-##### MJU Artificial Intelligence
+### TAVE code study
+- [x] 의사결정트리
+- [x] knn
+- [x] 나이브 베이즈
 
-1. 기초 파이썬 문법
-2. numpy와 pandas 사용 예제
-3. selenium으로 스크래핑하기
-4. BBC 인기기사 헤드라인 크롤링 (AWS lambda)
-
-##### TAVE code study
-
-1. 의사결정트리
-2. kNN
-3. NaiveBayes
+### 인공지능 수업
+- [x] 기초 파이썬 문법
+- [x] numpy와 pandas 예제
+- [x] 셀레니움으로 파이썬 스크래핑
+- [x] BBC 뉴스 타이틀 크롤링 (AWS)
+- [x] 데이터 전처리 예제
+- [x] 데이터 시각화
+- [x] 아이리스 데이터셋 처리
+- [x] 기초 데이터 분석과 표현
+- [x] 로지스틱 회귀
+- [x] 랜덤 포레스트
+- [x] SVM
+- [x] 텍스트마이닝
+- [x] 텍스트마이닝2
+- [x] 한글 텍스트마이닝과 워드클라우드
+- [x] k fold 교차 검증
